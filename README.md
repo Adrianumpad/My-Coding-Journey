@@ -1,6 +1,6 @@
 # My Coding Journey
 
-Daily SQL practice to strengthen my database skills for cloud database engineering.
+My Daily practice to strengthen my skills in Coding.
 
 ## Progress Tracker
 - **Start Date:** [Today's date]
